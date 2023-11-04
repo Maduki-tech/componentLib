@@ -27,8 +27,5 @@
   },
   "peerDependencies": {
     "react": "^18.2.0"
-  },
-  "publishConfig": {
-    "@maduki:registry": "https://npm.pkg.github.com"
   }
 }
