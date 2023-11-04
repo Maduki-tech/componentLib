@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@changesets/cli": "^2.26.2",
     "@types/react": "^18.2.34",
     "@typescript-eslint/eslint-plugin": "^6.9.1",
     "@typescript-eslint/parser": "^6.9.1",
@@ -28,7 +29,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-       "@maduki:registry": "https://npm.pkg.github.com"
-
+    "@maduki:registry": "https://npm.pkg.github.com"
   }
 }
