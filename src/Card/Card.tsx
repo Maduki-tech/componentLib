@@ -1,7 +1,5 @@
 import React from "react";
 
-import "./Card.css";
-
 export interface CardProps {
   img: { src: string; alt: string };
   title: string;
